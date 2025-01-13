@@ -5,7 +5,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-Regular.woff2') format('woff2'), url('TTF/IosevkaBlogger-Regular.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-Extended.woff2') format('woff2'), url('TTF/IosevkaBlogger-Extended.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Extended.woff2') format('woff2');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-Oblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-Oblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Oblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -31,7 +31,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: normal;
-	src: url('WOFF2/IosevkaBlogger-Oblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-Oblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Oblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -40,7 +40,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-ExtendedOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -48,7 +48,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: expanded;
-	src: url('WOFF2/IosevkaBlogger-ExtendedOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -57,7 +57,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-Italic.woff2') format('woff2'), url('TTF/IosevkaBlogger-Italic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Italic.woff2') format('woff2');
 }
 
 @font-face {
@@ -66,7 +66,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-ExtendedItalic.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedItalic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedItalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -75,7 +75,7 @@
 	font-weight: 450;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-Book.woff2') format('woff2'), url('TTF/IosevkaBlogger-Book.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Book.woff2') format('woff2');
 }
 
 @font-face {
@@ -84,7 +84,7 @@
 	font-weight: 450;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBook.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBook.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBook.woff2') format('woff2');
 }
 
 @font-face {
@@ -93,7 +93,7 @@
 	font-weight: 450;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-BookOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-BookOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BookOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -101,7 +101,7 @@
 	font-display: swap;
 	font-weight: 450;
 	font-stretch: normal;
-	src: url('WOFF2/IosevkaBlogger-BookOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-BookOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BookOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -110,7 +110,7 @@
 	font-weight: 450;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBookOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBookOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBookOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -118,7 +118,7 @@
 	font-display: swap;
 	font-weight: 450;
 	font-stretch: expanded;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBookOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBookOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBookOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -127,7 +127,7 @@
 	font-weight: 450;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-BookItalic.woff2') format('woff2'), url('TTF/IosevkaBlogger-BookItalic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BookItalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -136,7 +136,7 @@
 	font-weight: 450;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBookItalic.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBookItalic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBookItalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -145,7 +145,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-Bold.woff2') format('woff2'), url('TTF/IosevkaBlogger-Bold.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-Bold.woff2') format('woff2');
 }
 
 @font-face {
@@ -154,7 +154,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBold.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBold.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBold.woff2') format('woff2');
 }
 
 @font-face {
@@ -163,7 +163,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-BoldOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-BoldOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BoldOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -171,7 +171,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: normal;
-	src: url('WOFF2/IosevkaBlogger-BoldOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-BoldOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BoldOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -180,7 +180,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBoldOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBoldOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -188,7 +188,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: expanded;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBoldOblique.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBoldOblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -197,7 +197,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-BoldItalic.woff2') format('woff2'), url('TTF/IosevkaBlogger-BoldItalic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-BoldItalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -206,5 +206,5 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/IosevkaBlogger-ExtendedBoldItalic.woff2') format('woff2'), url('TTF/IosevkaBlogger-ExtendedBoldItalic.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/Debajyati/IosevkaBlogger/raw/refs/heads/main/WOFF2/IosevkaBlogger-ExtendedBoldItalic.woff2') format('woff2');
 }
